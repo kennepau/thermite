@@ -25,6 +25,8 @@ Options:
 
 ## License
 
+Perhaps there should be a license in here for no reason.
+
 Thermite is licensed under the terms of the GPL License (Version 3+).
 
 See LICENSE for details.
